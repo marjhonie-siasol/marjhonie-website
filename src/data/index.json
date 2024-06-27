@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/front-end.png",
+      "title": "Front-End",
+      "description": "HTML, CSS, JavaScript, React, Tailwind, Bootstrap"
+    },
+    {
+      "id": "2",
+      "src": "./img/back-end.png",
+      "title": "Back-End",
+      "description": "Node.js, Express, Java, Python, JavaScript, TypeScript"
+    },
+    {
+      "id": "3",
+      "src": "./img/database.png",
+      "title": "Database",
+      "description": "MongoDB, MySQL, PostgreSQL, MariaDB"
+    },
+    {
+      "id": "4",
+      "src": "./img/ai.png",
+      "title": "Ai",
+      "description": "Data Analytics, Neural Network, Prompt Engineering."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/TCCPOS.png",
+      "title": "Canteen POS",
+      "description": "The canteen system, developed in NetBeans with Java Ant, features a user-friendly interface. It efficiently manages orders and payments, providing a reliable solution for busy canteens.",
+      "linkUrl": "https://github.com/marjhonie-siasol/CanteenPOS"
+    },
+    {
+      "id": "2",
+      "src": "./img/snappay.png",
+      "title": "Snap Pay",
+      "description": "Snap Pay is a lightweight payment processing system with no database. It is developed in NetBeans, making it ideal for small businesses or personal use due to its simplicity and ease of use.",
+      "linkUrl": "https://github.com/marjhonie-siasol/SnapPay-No-database"
+    },
+    {
+      "id": "3",
+      "src": "./img/AuzAi.png",
+      "title": "Auz Ai",
+      "description": "Auz Ai is still developing, constantly learning and improving. it is a friendly digital helper, here to chat, answer questions, explore ideas, and navigate this exciting journey of discovery alongside you!",
+      "linkUrl": "https://github.com/marjhonie-siasol/AuzAI-React-Landing-Page"
+    } 
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
