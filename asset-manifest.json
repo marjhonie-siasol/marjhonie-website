@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/marjhonie-website/static/css/main.1867a446.css",
+    "main.js": "/marjhonie-website/static/js/main.5d097894.js",
+    "index.html": "/marjhonie-website/index.html",
+    "main.1867a446.css.map": "/marjhonie-website/static/css/main.1867a446.css.map",
+    "main.5d097894.js.map": "/marjhonie-website/static/js/main.5d097894.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1867a446.css",
+    "static/js/main.5d097894.js"
+  ]
+}
