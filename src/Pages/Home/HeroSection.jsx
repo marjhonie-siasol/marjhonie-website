@@ -19,7 +19,7 @@ export default function HeroSection() {
             Passionate about creating user-friendly websites and applications.
           </p>
         </div>
-        <button className="btn btn-primary" onClick={openResume}>
+        <button className="btn btn-primary" onClick={/*openResume*/}>
           Download Resume
         </button>
       </div>
